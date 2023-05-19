@@ -9,6 +9,6 @@ else:
         if i in '2357':
             c+=1
 if(c==len(s)):
-    print("Mega Prime")
+    print('Mega Prime')
 else:
     print("Not Mega Prime")
